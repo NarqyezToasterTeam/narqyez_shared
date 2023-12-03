@@ -2,7 +2,7 @@
 name = "narqyez_shared"
 version = "0.1.0"
 edition = "2021"
-license = "GPL-3"
+license-file = "LICENSE"
 description = "A library for shared references between Narqyez projects."
 documentation = "https://docs.rs/narqyez_shared"
 readme = "README.md"
