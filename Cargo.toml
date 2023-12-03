@@ -5,7 +5,7 @@ edition = "2021"
 license = "GPL-3"
 description = "A library for shared references between Narqyez projects."
 documentation = "https://docs.rs/narqyez_shared"
-readme = ""
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
